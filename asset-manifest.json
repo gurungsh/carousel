@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-carousel/static/css/main.263e9293.chunk.css",
-    "main.js": "/react-carousel/static/js/main.c08cdd77.chunk.js",
-    "main.js.map": "/react-carousel/static/js/main.c08cdd77.chunk.js.map",
-    "runtime-main.js": "/react-carousel/static/js/runtime-main.cffa5c3b.js",
-    "runtime-main.js.map": "/react-carousel/static/js/runtime-main.cffa5c3b.js.map",
-    "static/css/2.0624914a.chunk.css": "/react-carousel/static/css/2.0624914a.chunk.css",
-    "static/js/2.e743fb61.chunk.js": "/react-carousel/static/js/2.e743fb61.chunk.js",
-    "static/js/2.e743fb61.chunk.js.map": "/react-carousel/static/js/2.e743fb61.chunk.js.map",
-    "index.html": "/react-carousel/index.html",
-    "precache-manifest.940b9e32de20bf30a6bdca3674b4e37d.js": "/react-carousel/precache-manifest.940b9e32de20bf30a6bdca3674b4e37d.js",
-    "service-worker.js": "/react-carousel/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/react-carousel/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.263e9293.chunk.css.map": "/react-carousel/static/css/main.263e9293.chunk.css.map"
+    "main.css": "/carousel/static/css/main.263e9293.chunk.css",
+    "main.js": "/carousel/static/js/main.38467543.chunk.js",
+    "main.js.map": "/carousel/static/js/main.38467543.chunk.js.map",
+    "runtime-main.js": "/carousel/static/js/runtime-main.b51c9556.js",
+    "runtime-main.js.map": "/carousel/static/js/runtime-main.b51c9556.js.map",
+    "static/css/2.0624914a.chunk.css": "/carousel/static/css/2.0624914a.chunk.css",
+    "static/js/2.e743fb61.chunk.js": "/carousel/static/js/2.e743fb61.chunk.js",
+    "static/js/2.e743fb61.chunk.js.map": "/carousel/static/js/2.e743fb61.chunk.js.map",
+    "index.html": "/carousel/index.html",
+    "precache-manifest.be785875d4130300926861519bffe6bf.js": "/carousel/precache-manifest.be785875d4130300926861519bffe6bf.js",
+    "service-worker.js": "/carousel/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/carousel/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.263e9293.chunk.css.map": "/carousel/static/css/main.263e9293.chunk.css.map"
   }
 }
